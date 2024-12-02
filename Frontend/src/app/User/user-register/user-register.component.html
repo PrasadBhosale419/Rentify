@@ -1,0 +1,55 @@
+<div class="row">
+    <div class="col-6 m-auto">
+        <div class="card m-auto">
+            <div class="card-header">
+                <h3>Register</h3>
+            </div>
+            <div class="card-body">
+                <form [formGroup]="registrationForm" (ngSubmit)="onSubmit()">
+                    <div class="form-group col-12">
+                        <label for="name" class="form-label">Name</label>
+                        <input type="text" class="form-control" formControlName="userName">
+                        <span *ngIf="!userName.valid && (userName.touched || userSubmitted)" class="error-block">
+                            Enter a valid name
+                        </span>
+                    </div>
+                    <div class="form-group col-12 mt-2">
+                        <label for="email" class="form-label">Email</label>
+                        <input type="text" class="form-control" formControlName="userEmail">
+                        <span *ngIf="!userEmail.valid && (userEmail.touched || userSubmitted)" class="error-block">
+                            Enter a valid Email
+                        </span>
+                    </div>
+                    <div class="form-group col-12 mt-2">
+                        <label for="password" class="form-label">Password</label>
+                        <input type="password" class="form-control" formControlName="userPassword">
+                        <span *ngIf="!userPassword.valid && (userPassword.touched || userSubmitted)" class="error-block">
+                            Enter a valid Password
+                        </span>
+                    </div>
+                    <div class="form-group col-12 mt-2">
+                        <label for="cpassword">Confirm Password</label>
+                        <input type="password" class="form-control" formControlName="confirmPassword">
+                        <span *ngIf="!confirmPassword.valid && (confirmPassword.touched || userSubmitted)" class="error-block">
+                            Enter a valid Password
+                        </span> <br>
+                        <span *ngIf="registrationForm.hasError('notMatched') && (confirmPassword.touched || userSubmitted)" class="error-block">
+                            Enter a matching Password
+                        </span>
+                    </div>
+                    <div class="form-group col-12 mt-2">
+                        <label for="mobile">Mobile</label>
+                        <input type="text" class="form-control" formControlName="userMobile">
+                        <span *ngIf="!mobile.valid && (mobile.touched || userSubmitted)" class="error-block">
+                            Enter a valid Mobile
+                        </span>
+                    </div>
+                    <div class="form-group col-12 mt-2">
+                        <button type="submit" class="btn btn-primary me-2">Save</button>
+                        <button type="reset" class="btn btn-primary">Cancel</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
