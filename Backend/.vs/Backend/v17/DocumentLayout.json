@@ -1,0 +1,878 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\ipropertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\helper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\helper\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\repo\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\repo\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\photo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\propertytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\propertytypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\dtos\\propertydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\propertydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\furnishingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\furnishingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\propertydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\repo\\furnishingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\repo\\furnishingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\citydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\furnishingtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\furnishingtypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\data\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\repo\\propertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\repo\\propertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\ifurnishingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\ifurnishingtyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\ipropertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\ipropertytyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\dtos\\keyvaluepairdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\keyvaluepairdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\data\\dataseeding\\view data seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\data\\dataseeding\\view data seed.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241130054741_seeddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241130054741_seeddatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\propertytype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\data\\dataseeding\\data seeding up.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\data\\dataseeding\\data seeding up.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\errors\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\errors\\apierror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\middlewares\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\repo\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\extensions\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\extensions\\exceptionmiddlewareextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241125193635_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241125193635_adduserstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\dtos\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\dtos\\cityupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\repo\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\repo\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241125064515_changingdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241125064515_changingdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241124112805_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241124112805_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241125082819_addedcountrycolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241125082819_addedcountrycolumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241125064241_addcolumntocities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241125064241_addcolumntocities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241126100028_addedpassworddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241126100028_addedpassworddefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|c:\\users\\hp\\onedrive\\documents\\rentouse\\backend\\backend\\migrations\\20241127104114_propertyentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2B5395-272C-4D59-8F20-BC6F533CCE71}|Backend\\Backend.csproj|solutionrelative:backend\\migrations\\20241127104114_propertyentityadded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PhotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Dtos\\PhotoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAuwC8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T07:04:01.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T08:18:12.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPropertyRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IPropertyRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPropertyRepository.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IPropertyRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:51:07.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Helper\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "Backend\\Helper\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Helper\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "Backend\\Helper\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwBcAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:36:29.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Photo.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\Photo.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\Photo.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\Photo.cs",
+              "RelativeToolTip": "Backend\\Models\\Photo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:25:10.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Services\\PhotoService.cs",
+              "RelativeToolTip": "Backend\\Services\\PhotoService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwCUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:02:58.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPhotoService.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IPhotoService.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPhotoService.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IPhotoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:57:49.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repo\\PropertyRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\PropertyRepository.cs",
+              "RelativeToolTip": "Backend\\Repo\\PropertyRepository.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA6wCIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T06:56:42.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PropertyTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\PropertyTypeController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\PropertyTypeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\PropertyTypeController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\PropertyTypeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:47:39.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PropertyDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PropertyDetailDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\PropertyDetailDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PropertyDetailDto.cs",
+              "RelativeToolTip": "Backend\\Dtos\\PropertyDetailDto.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA1wAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T08:44:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Backend\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:26:02.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PhotoDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PhotoDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\PhotoDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PhotoDto.cs",
+              "RelativeToolTip": "Backend\\Dtos\\PhotoDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T10:28:37.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Backend.http",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-24T11:16:56.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FurnishingType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\FurnishingType.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\FurnishingType.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\FurnishingType.cs",
+              "RelativeToolTip": "Backend\\Models\\FurnishingType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:27:25.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T10:34:29.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\UnitOfWork.cs",
+              "RelativeToolTip": "Backend\\Data\\UnitOfWork.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:20:17.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAASwCcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:18:20.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PropertyDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PropertyDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\PropertyDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\PropertyDto.cs",
+              "RelativeToolTip": "Backend\\Dtos\\PropertyDto.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wAQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T18:36:27.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IUnitOfWork.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:17:54.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PropertyTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\PropertyTypeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repo\\PropertyTypeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\PropertyTypeRepository.cs",
+              "RelativeToolTip": "Backend\\Repo\\PropertyTypeRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:44:27.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FurnishingTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\FurnishingTypeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repo\\FurnishingTypeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\FurnishingTypeRepository.cs",
+              "RelativeToolTip": "Backend\\Repo\\FurnishingTypeRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T17:02:58.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FurnishingTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\FurnishingTypeController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\FurnishingTypeController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\FurnishingTypeController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\FurnishingTypeController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAA3wBwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:57:37.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\CityDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\CityDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\CityDTO.cs",
+              "RelativeToolTip": "Backend\\Dtos\\CityDTO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:49:40.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IFurnishingTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IFurnishingTypeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IFurnishingTypeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IFurnishingTypeRepository.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IFurnishingTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:58:41.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IPropertyTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPropertyTypeRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IPropertyTypeRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IPropertyTypeRepository.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IPropertyTypeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:42:28.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\City.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\City.cs",
+              "RelativeToolTip": "Backend\\Models\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:16:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "KeyValuePairDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\KeyValuePairDto.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\KeyValuePairDto.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\KeyValuePairDto.cs",
+              "RelativeToolTip": "Backend\\Dtos\\KeyValuePairDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T16:48:37.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\CityController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwDEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:24:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241130054741_SeedDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241130054741_SeedDatabase.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241130054741_SeedDatabase.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241130054741_SeedDatabase.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241130054741_SeedDatabase.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBUAAAASAQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T05:47:41.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "View Data Seed.sql",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataSeeding\\View Data Seed.sql",
+              "RelativeDocumentMoniker": "Backend\\Data\\DataSeeding\\View Data Seed.sql",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataSeeding\\View Data Seed.sql",
+              "RelativeToolTip": "Backend\\Data\\DataSeeding\\View Data Seed.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T06:42:31.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:47:34.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PropertyType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\PropertyType.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\PropertyType.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\PropertyType.cs",
+              "RelativeToolTip": "Backend\\Models\\PropertyType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:27:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\User.cs",
+              "RelativeToolTip": "Backend\\Models\\User.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:29:36.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Backend\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Backend\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:33:17.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Data Seeding Up.sql",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataSeeding\\Data Seeding Up.sql",
+              "RelativeDocumentMoniker": "Backend\\Data\\DataSeeding\\Data Seeding Up.sql",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataSeeding\\Data Seeding Up.sql",
+              "RelativeToolTip": "Backend\\Data\\DataSeeding\\Data Seeding Up.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-30T05:50:24.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20241127104114_PropertyEntityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241127104114_PropertyEntityAdded.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241127104114_PropertyEntityAdded.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241127104114_PropertyEntityAdded.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241127104114_PropertyEntityAdded.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T10:41:15.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Data\\DataContext.cs",
+              "RelativeToolTip": "Backend\\Data\\DataContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T10:32:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAWwDQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:59:52.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ApiError.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Errors\\ApiError.cs",
+              "RelativeDocumentMoniker": "Backend\\Errors\\ApiError.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Errors\\ApiError.cs",
+              "RelativeToolTip": "Backend\\Errors\\ApiError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:08:13.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "Backend\\Middlewares\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Middlewares\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "Backend\\Middlewares\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:01:01.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repo\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\UserRepository.cs",
+              "RelativeToolTip": "Backend\\Repo\\UserRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T09:50:05.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20241126100028_AddedPasswordDefault.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241126100028_AddedPasswordDefault.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241126100028_AddedPasswordDefault.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241126100028_AddedPasswordDefault.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241126100028_AddedPasswordDefault.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:00:28.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Backend\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:08:12.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ExceptionMiddlewareExtension.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Extensions\\ExceptionMiddlewareExtension.cs",
+              "RelativeDocumentMoniker": "Backend\\Extensions\\ExceptionMiddlewareExtension.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Extensions\\ExceptionMiddlewareExtension.cs",
+              "RelativeToolTip": "Backend\\Extensions\\ExceptionMiddlewareExtension.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:43:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241125193635_AddUsersTable.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125193635_AddUsersTable.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241125193635_AddUsersTable.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125193635_AddUsersTable.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241125193635_AddUsersTable.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwAwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T19:36:35.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CityUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\CityUpdateDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\Dtos\\CityUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Dtos\\CityUpdateDTO.cs",
+              "RelativeToolTip": "Backend\\Dtos\\CityUpdateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:16:47.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Repo\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Repo\\CityRepository.cs",
+              "RelativeToolTip": "Backend\\Repo\\CityRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA2wBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T12:52:27.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20241125082819_AddedCountryColumn.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125082819_AddedCountryColumn.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241125082819_AddedCountryColumn.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125082819_AddedCountryColumn.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241125082819_AddedCountryColumn.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:28:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20241125064241_AddColumnToCities.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125064241_AddColumnToCities.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241125064241_AddColumnToCities.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125064241_AddColumnToCities.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241125064241_AddColumnToCities.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:42:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241125064515_ChangingDataType.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125064515_ChangingDataType.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241125064515_ChangingDataType.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241125064515_ChangingDataType.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241125064515_ChangingDataType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T06:45:16.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241124112805_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241124112805_InitialMigration.cs",
+              "RelativeDocumentMoniker": "Backend\\Migrations\\20241124112805_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Migrations\\20241124112805_InitialMigration.cs",
+              "RelativeToolTip": "Backend\\Migrations\\20241124112805_InitialMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T11:28:06.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T09:18:40.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Documents\\Rentouse\\Backend\\Backend\\appsettings.Development.json",
+              "RelativeToolTip": "Backend\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T09:25:51.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
